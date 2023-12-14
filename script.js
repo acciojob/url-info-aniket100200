@@ -2,4 +2,4 @@
 
 let ans=window.location.href.length;
 
-alert(ans);
+alert("The length of the URL is: "+ans);
